@@ -19,5 +19,6 @@ PLANEJAMENTO > CONSULTORIA;
 <div>
 <a href="https://instagram.com/robertoblackdog" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:robertoblackdog@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/roberto-oliveira-de-araujo-581596107/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/roberto-oliveira-de-araujo-581596107/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://web.whatsapp.com/send/?phone=5565992779152&text=Github+new+contacts+RobertoBlackdog&type=phone_number&app_absent=0/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/-whatsapp-%25230077B5?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
 </div>
