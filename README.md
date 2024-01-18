@@ -5,7 +5,7 @@
 
 - Atuante tecnológico há mais de 27 anos, ainda apaixonado e diariamente aceitando desafios;
 - Gerenciei empresas, setores e equipes, de todos os tamanhos e complexidades, com projetos a nível nacional (com registro INPE);
-- Profissionalmente fui gradativamente adquindo conhecimentos de acordo com o tempo e setor, nos quais cada um deles foram extremamente positivos ao seguinte e vice-versa e ainda sigo aprendendo. SUPORTE > DESENVOLVIMENTO > GERENCIAMENTO >
+- Profissionalmente fui gradativamente adquirindo conhecimentos de acordo com o tempo e o setor de competência, nos quais cada um deles foram extremamente positivos ao seguinte e vice-versa e ainda sigo aprendendo. SUPORTE > DESENVOLVIMENTO > GERENCIAMENTO >
 PLANEJAMENTO > CONSULTORIA;
 - Conhecimento em migração, integração, desenvolvimento e analise;
 - Fui professor de tecnologia por algumas temporadas no Senai/MT - período memorável, pré-pandemia;
