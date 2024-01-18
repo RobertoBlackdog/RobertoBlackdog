@@ -4,7 +4,7 @@
 
 
 - Atuante tecnológico há mais de 27 anos, ainda apaixonado e diariamente aceitando desafios;
-- Gerenciei empresas, setores e equipes, de todos os tamanhos e complexidades, chegando a nivel nacional (com registro nacional no INPE);
+- Gerenciei empresas, setores e equipes, de todos os tamanhos e complexidades, com projetos a nível nacional (com registro nacional no INPE);
 - Profissionalmente fui gradativamente adquindo conhecimentos de acordo com o tempo e setor, nos quais cada um deles foram extremamente positivos ao seguinte e vice-versa e ainda sigo aprendendo. SUPORTE > DESENVOLVIMENTO > GERENCIAMENTO >
 PLANEJAMENTO > CONSULTORIA;
 - Conhecimento em migração, integração, desenvolvimento e analise;
